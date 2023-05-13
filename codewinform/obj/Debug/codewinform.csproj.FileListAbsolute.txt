@@ -1,0 +1,270 @@
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\codewinform.exe.config
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\codewinform.exe
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\codewinform.pdb
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.csprojAssemblyReference.cache
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.Properties.Resources.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.csproj.GenerateResource.cache
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.csproj.CoreCompileInputs.cache
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.exe
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.pdb
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.ALogin.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.BTableManager.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.CAccountprofile.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.DAdmin.resources
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\codewinform.exe.config
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\codewinform.exe
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\codewinform.pdb
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.ALogin.resources
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.BTableManager.resources
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.CAccountprofile.resources
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.DAdmin.resources
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.Properties.Resources.resources
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.exe
+C:\Users\PC\Desktop\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.pdb
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.home.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.ftrogiup.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.fngongu.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.fNHANVIEN.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.fKHOHANG.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.FNHACUNGCAP.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.fTHONGKE.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\EnvDTE.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\stdole.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\Microsoft.MSXML.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.csproj.CopyComplete
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.rpHOADON.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\RdlCompile.cache
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\RdlCompile.compiled
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.rpDANHMUC.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.rpNCC.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.rpNHANVIEN.resources
+C:\Trần Đức\C#\Đồ án\CODEWINFORM\codewinform\codewinform\obj\Debug\codewinform.ftrogiupsau.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\codewinform.exe.config
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\codewinform.exe
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\codewinform.pdb
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.ALogin.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.BTableManager.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.CAccountprofile.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.DAdmin.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fKHOHANG.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fngongu.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.FNHACUNGCAP.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fNHANVIEN.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fTHONGKE.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.ftrogiup.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.ftrogiupsau.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.home.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.Properties.Resources.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpDANHMUC.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpHOADON.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpNCC.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpNHANVIEN.resources
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\RdlCompile.cache
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\RdlCompile.compiled
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.CopyComplete
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.exe
+C:\Users\PC\Desktop\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.pdb
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\codewinform.exe.config
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\codewinform.exe
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\codewinform.pdb
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\EnvDTE.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\stdole.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\Microsoft.MSXML.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.AssemblyReference.cache
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.SuggestedBindingRedirects.cache
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.ALogin.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.BTableManager.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.CAccountprofile.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.DAdmin.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fKHOHANG.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fngongu.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.FNHACUNGCAP.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fNHANVIEN.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.fTHONGKE.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.ftrogiup.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.ftrogiupsau.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.home.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.Properties.Resources.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpDANHMUC.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpHOADON.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpNCC.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.rpNHANVIEN.resources
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.GenerateResource.cache
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.CoreCompileInputs.cache
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.csproj.CopyComplete
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.exe
+D:\TranDuc\C#\nhom4_QLCHVINMART_5604_S2S5\nhom4_QLCHVINMART\codewinform\codewinform\obj\Debug\codewinform.pdb

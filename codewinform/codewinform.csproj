@@ -1,0 +1,664 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93D6D46D-89A2-4C2A-BAC9-75A46995953E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>codewinform</RootNamespace>
+    <AssemblyName>codewinform</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ALogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALogin.Designer.cs">
+      <DependentUpon>ALogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTableManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTableManager.Designer.cs">
+      <DependentUpon>BTableManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAccountprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAccountprofile.Designer.cs">
+      <DependentUpon>CAccountprofile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\Dangnhap.cs" />
+    <Compile Include="DAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DAdmin.Designer.cs">
+      <DependentUpon>DAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\KETNOI.cs" />
+    <Compile Include="fKHOHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fKHOHANG.Designer.cs">
+      <DependentUpon>fKHOHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fngongu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fngongu.Designer.cs">
+      <DependentUpon>fngongu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FNHACUNGCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FNHACUNGCAP.Designer.cs">
+      <DependentUpon>FNHACUNGCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNHANVIEN.Designer.cs">
+      <DependentUpon>fNHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTHONGKE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fTHONGKE.Designer.cs">
+      <DependentUpon>fTHONGKE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftrogiup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ftrogiup.Designer.cs">
+      <DependentUpon>ftrogiup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftrogiupsau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ftrogiupsau.Designer.cs">
+      <DependentUpon>ftrogiupsau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyCuaHangVinmartDADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyCuaHangVinmartDADataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyCuaHangVinmartDADataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyCuaHangVinmartDADataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyCuaHangVinmartDADataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyCuaHangVinmartDADataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="rpDANHMUC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpDANHMUC.Designer.cs">
+      <DependentUpon>rpDANHMUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpHOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpHOADON.Designer.cs">
+      <DependentUpon>rpHOADON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpNCC.Designer.cs">
+      <DependentUpon>rpNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpNHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpNHANVIEN.Designer.cs">
+      <DependentUpon>rpNHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="THUVIENHAM\THUVIENHAMDANHMUCOFNHANVIEN.cs" />
+    <Compile Include="THUVIENHAM\THUVIENHAMHOADON.cs" />
+    <Compile Include="THUVIENHAM\THUVIENHAMOFNCC.cs" />
+    <Compile Include="THUVIENHAM\THUVIENHAMTHONGKE.cs" />
+    <EmbeddedResource Include="ALogin.resx">
+      <DependentUpon>ALogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTableManager.resx">
+      <DependentUpon>BTableManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAccountprofile.resx">
+      <DependentUpon>CAccountprofile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DAdmin.resx">
+      <DependentUpon>DAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fKHOHANG.resx">
+      <DependentUpon>fKHOHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fngongu.resx">
+      <DependentUpon>fngongu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FNHACUNGCAP.resx">
+      <DependentUpon>FNHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNHANVIEN.resx">
+      <DependentUpon>fNHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTHONGKE.resx">
+      <DependentUpon>fTHONGKE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftrogiup.resx">
+      <DependentUpon>ftrogiup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftrogiupsau.resx">
+      <DependentUpon>ftrogiupsau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report3NCC.rdlc" />
+    <EmbeddedResource Include="Report4NV.rdlc" />
+    <EmbeddedResource Include="rpDANHMUC.resx">
+      <DependentUpon>rpDANHMUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpHOADON.resx">
+      <DependentUpon>rpHOADON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpNCC.resx">
+      <DependentUpon>rpNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpNHANVIEN.resx">
+      <DependentUpon>rpNHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QuanLyCuaHangVinmartDADataSet.xsc">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyCuaHangVinmartDADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet.xss">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet1.xsc">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyCuaHangVinmartDADataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet1.xss">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet2.xsc">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyCuaHangVinmartDADataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet2.xss">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet3.xsc">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyCuaHangVinmartDADataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet3.xss">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet4.xsc">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyCuaHangVinmartDADataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet4.xss">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet5.xsc">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyCuaHangVinmartDADataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyCuaHangVinmartDADataSet5.xss">
+      <DependentUpon>QuanLyCuaHangVinmartDADataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\background-dep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sieu-thi-mini-vinmart-can-thue-mat-bang-hcm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-logout-icon-vectors-png-image_1737872.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nen-den-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-portable-network-graphics-businessp-business-person-man-finance-online-svg-png-icon-fr-5b732d65a8c839.6957371115342749176913.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-shop-icon-png-image_921774.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-receipt-icon-c-png-image_854616.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-invoice-icon-design-vector-png-image_1586820.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-invoice-icon-design-vector-png-image_15868201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-invoice-icon-design-vector-png-image_15868202.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-e-commerce-shopping-cart-software-digital-marketin-servicesecommercev1-1-36-web-designs-36-w-5c787a69b20034.1785901215513995297291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-invoice-icon-design-vector-png-image_1586820.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-invoice-icon-design-vector-png-image_15868201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CUOI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-cross-sign-icon-cartoon-style-png-image_1852384.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-shopping-cart-icon-design-image_1071385.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56152947-editar-icono-de-documento-de-señal-editar-botón-de-contenido-botón-círculo-con-el-icono-de-color-nar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\200-2004737_red-delete-button-cancel-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1132721551-1024x1024.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_30853802_nlCCG9DGlkbUspvmGLosnkAfwdU1eQbI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update-software-icon-upgrade-application-progress-164771840.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update-software-icon-upgrade-application-progress-1647718401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\200-2004737_red-delete-button-cancel-button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-invoice-icon-design-vector-png-image_15868203.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cach-tiep-can-khach-hang-moi-1-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cac-ky-hieu-tren-thung-carton-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AvatarLargeNam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_add_100842.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-cross-sign-icon-cartoon-style-png-image_18523841.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1080052852-1024x1024.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_add_1008421.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-cross-sign-icon-cartoon-style-png-image_18523842.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1080052852-1024x10241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_add_1008422.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-cross-sign-icon-cartoon-style-png-image_18523843.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1080052852-1024x10242.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_add_1008423.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-cross-sign-icon-cartoon-style-png-image_18523844.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1080052852-1024x10243.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_add_1008424.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-cross-sign-icon-cartoon-style-png-image_18523845.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1080052852-1024x10244.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_add_1008425.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-cross-sign-icon-cartoon-style-png-image_18523846.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cab7b7832b72fff018dcb404a6282846.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\200-2004737_red-delete-button-cancel-button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\906343.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_30853802_nlCCG9DGlkbUspvmGLosnkAfwdU1eQbI1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kho.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-logout--icon-in-trendy-style-isolated-background-png-image_4859235.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\to.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-logo-personally-identifiable-information-data-font-5c0d0438782d44.2033688815443569204923.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sieu-thi-mini-vinmart-can-thue-mat-bang-hcm1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector-house-icon-symbol-sign.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor-73118_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-shop-icon-png-image_9217741.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnban.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9063431.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AvatarLargeNam1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hihaha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_30853802_nlCCG9DGlkbUspvmGLosnkAfwdU1eQbI2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hqhqhq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xxxxxxx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sieu-thi-mini-vinmart-can-thue-mat-bang-hcm2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adbtn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nư.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neeee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-lock-password-icon-vectors-png-image_1738050.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-globe-launguage-icon-simple-style-png-image_1959604.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cac-ky-hieu-tren-thung-carton-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db3070ce88131da06ec92df7d78e1a37 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db3070ce88131da06ec92df7d78e1a37 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db3070ce88131da06ec92df7d78e1a37 %281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ncc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kho1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khopart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kho2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21dd207b9fdce001bea7f436db94bbd4_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update-software-icon-upgrade-application-progress-1647718402.png" />
+    <None Include="Resources\update-software-icon-upgrade-application-progress-1647718403.png" />
+    <None Include="Resources\update-software-icon-upgrade-application-progress-1647718404.png" />
+    <None Include="Resources\update-software-icon-upgrade-application-progress-1647718405.png" />
+    <None Include="Resources\update-software-icon-upgrade-application-progress-1647718406.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
